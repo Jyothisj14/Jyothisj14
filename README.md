@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="./header.svg" alt="Hallo, ich bin Jyothi!" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1565c0&height=220&section=header&text=Hallo%20ich%20bin%20Jyothi&fontSize=48&fontColor=ffffff" alt="Hallo, ich bin Jyothi!" width="100%" />
 </div>
+
+<h3 align="center">DevOps & Platform Engineer | Security Tooling</h3>
 
 <div align="center">
 
-![Verfügbar ab sofort](https://img.shields.io/badge/Verf%C3%BCgbar-ab_sofort-2ea043?style=for-the-badge)
-![Werkstudent](https://img.shields.io/badge/Werkstudent-bis_20_Std_pro_Woche-6b4f93?style=for-the-badge)
-![Umzug möglich](https://img.shields.io/badge/Umzug-m%C3%B6glich-3a6a8c?style=for-the-badge)
+![Verfügbar ab sofort](https://img.shields.io/badge/Verf%C3%BCgbar-ab_sofort-1565c0?style=for-the-badge)
+![Werkstudent](https://img.shields.io/badge/Werkstudent-bis_20_Std_pro_Woche-1e88e5?style=for-the-badge)
+![Umzug möglich](https://img.shields.io/badge/Umzug-m%C3%B6glich-42a5f5?style=for-the-badge)
 
 📍 Chemnitz, Deutschland
 
@@ -43,10 +45,10 @@ Ich studiere **Web Engineering (M.Sc.)** an der **TU Chemnitz** und bringe **3+ 
 
 *Lass uns vernetzen und ins Gespräch kommen!*
 
-[![E-Mail](https://img.shields.io/badge/E--Mail-jyothisjayanna%40gmail.com-6b4f93?style=for-the-badge)](mailto:jyothisjayanna@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-3a6a8c?style=for-the-badge)](https://linkedin.com/in/jyothi-s-jayanna-bba04a199)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jyothisj14.github.io-6a9fb5?style=for-the-badge)](https://jyothisj14.github.io/portfolio)
+[![E-Mail](https://img.shields.io/badge/E--Mail-jyothisjayanna%40gmail.com-1565c0?style=for-the-badge)](mailto:jyothisjayanna@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-1e88e5?style=for-the-badge)](https://linkedin.com/in/jyothi-s-jayanna-bba04a199)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jyothisj14.github.io-42a5f5?style=for-the-badge)](https://jyothisj14.github.io/portfolio)
 
-<img src="./footer.svg" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1565c0&height=120&section=footer" alt="" width="100%" />
 
 </div>
